@@ -1,0 +1,447 @@
+.container {
+    display: flex
+}
+
+.w100 {
+    width: 100vw
+}
+
+.h100 {
+    height: 100vh
+}
+
+.x100 {
+    width: 100%;
+    padding: 0 auto
+}
+
+.x98 {
+    width: 98%;
+    padding: 0 1%
+}
+
+.x92 {
+    width: 92%;
+    padding: 0 4%
+}
+
+.x75 {
+    width: 75%;
+    padding: 0 auto
+}
+
+.x70 {
+    width: 70%;
+    padding: 0 auto
+}
+
+.x50 {
+    width: 50%;
+    padding: 0 auto
+}
+
+.x33 {
+    width: 33%;
+    padding: 0 auto
+}
+
+.x30 {
+    width: 30%;
+    padding: 0 auto
+}
+
+.x25 {
+    width: 25%;
+    padding: 0 auto
+}
+
+.x10 {
+    width: 10%;
+    padding: 0 auto
+}
+
+.y480 {
+    height: 480px;
+}
+
+.y320 {
+    height: 320px;
+}
+
+.y240 {
+    height: 240px;
+}
+
+.y160 {
+    height: 160px;
+}
+
+.y120 {
+    height: 120px;
+}
+
+.y100 {
+    height: 100px;
+}
+
+.y80 {
+    height: 80px;
+}
+
+.y50 {
+    height: 50px;
+    line-height: 50px
+}
+
+.y40 {
+    height: 40px;
+    line-height: 40px
+}
+
+.y30 {
+    height: 30px;
+    line-height: 30px
+}
+
+.lh2 {
+    line-height: 2;
+}
+
+.xm4 {
+    margin-left: 4%;
+    margin-right: 4%
+}
+
+.xm2 {
+    margin-left: 2%;
+    margin-right: 2%
+}
+
+.xm1 {
+    margin-left: 1%;
+    margin-right: 1%
+}
+
+.xp4 {
+    padding-left: 4%;
+    padding-right: 4%
+}
+
+.xp2 {
+    padding-left: 2%;
+    padding-right: 2%
+}
+
+.xp1 {
+    padding-left: 1%;
+    padding-right: 1%
+}
+
+.ym20 {
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.ym10 {
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+
+.ym5 {
+    margin-top: 5px;
+    margin-bottom: 5px
+}
+
+.yp20 {
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+.yp10 {
+    padding-top: 10px;
+    padding-bottom: 10px
+}
+
+.yp5 {
+    padding-top: 5px;
+    padding-bottom: 5px
+}
+
+.xl0 {
+    left: 0;
+}
+
+.xl1 {
+    left: 1%;
+}
+
+.xl2 {
+    left: 2%;
+}
+
+.xl4 {
+    left: 4%;
+}
+
+.xr0 {
+    right: 0;
+}
+
+.xr1 {
+    right: 1%;
+}
+
+.xr2 {
+    right: 2%;
+}
+
+.xr4 {
+    right: 4%;
+}
+
+.yt20 {
+    top: 20px;
+}
+
+.yt10 {
+    top: 10px;
+}
+
+.yt5 {
+    top: 5px;
+}
+
+.yt0 {
+    top: 0;
+}
+
+.yb20 {
+    bottom: 20px;
+}
+
+.yb10 {
+    bottom: 10px;
+}
+
+.y5 {
+    bottom: 5px;
+}
+
+.yb0 {
+    bottom: 0;
+}
+
+.bgf {
+    background: #fff
+}
+
+.bgfa {
+    background: #fafafa;
+}
+
+.bgf2 {
+    background: #f2f2f2
+}
+
+.bgc2 {
+    background: #c2c2c2
+}
+
+.bgx {
+    background: #4285f4
+}
+
+.clf {
+    color: #fff
+}
+
+.cl9 {
+    color: #999
+}
+
+.cl6 {
+    color: #666
+}
+
+.cl3 {
+    color: #333
+}
+
+.clx {
+    color: #4285f4
+}
+
+.fs12 {
+    font-size: 12px
+}
+
+.fs14 {
+    font-size: 14px
+}
+
+.fs16 {
+    font-size: 16px
+}
+
+.fs18 {
+    font-size: 18px
+}
+
+.fs24 {
+    font-size: 24px
+}
+
+.fs36 {
+    font-size: 36px
+}
+
+.lh2 {
+    line-height: 2
+}
+
+.b-top {
+    border-top: 1px solid #f2f2f2
+}
+
+.b-bottom {
+    border-bottom: 1px solid #f2f2f2
+}
+
+.b-left {
+    border-left: 1px solid #f2f2f2
+}
+
+.b-right {
+    border-right: 1px solid #f2f2f2
+}
+
+.b-border {
+    border: 1px solid #f2f2f2
+}
+
+.b-shadow {
+    box-shadow: 0 0 1px 1px #f2f2f2
+}
+
+.b-radius {
+    border-radius: 6px
+}
+
+.b-radiux {
+    border-radius: 50%
+}
+
+.b-title {
+    border-left: 4px solid #4285f4;
+    padding: 0 6px;
+}
+
+.b-none {
+    border: none
+}
+
+.o-none {
+    outline: 0
+}
+
+.o-auto {
+    overflow: auto
+}
+
+.o-hidden {
+    overflow: hidden
+}
+
+.p-relative {
+    position: relative;
+}
+
+.p-absolute {
+    position: absolute;
+}
+
+.p-fixed {
+    position: fixed;
+}
+
+.t-left {
+    text-align: left
+}
+
+.t-center {
+    text-align: center
+}
+
+.t-right {
+    text-align: right
+}
+
+.t-ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+
+.t-current {
+    color: #4285f4;
+}
+
+.t-pointer {
+    cursor: pointer;
+}
+
+.x-row {
+    flex-direction: row
+}
+
+.x-column {
+    flex-direction: column
+}
+
+.x-warp {
+    flex-wrap: wrap
+}
+
+.x-nowarp {
+    flex-wrap: nowrap
+}
+
+.x-start {
+    justify-content: flex-start
+}
+
+.x-end {
+    justify-content: flex-end
+}
+
+.x-center {
+    justify-content: center
+}
+
+.x-around {
+    justify-content: space-around
+}
+
+.x-between {
+    justify-content: space-between
+}
+
+.y-start {
+    align-items: flex-start
+}
+
+.y-end {
+    align-items: flex-end
+}
+
+.y-center {
+    align-items: center
+}
+
+.y-baseline {
+    align-items: baseline
+}
+
+.y-stretch {
+    align-items: stretch
+}
