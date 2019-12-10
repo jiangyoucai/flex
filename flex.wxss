@@ -1,6 +1,8 @@
 /* common */
 .container {
     display: flex;
+    font-size: 28rpx;
+    color: #333;
 }
 
 .h100 {
@@ -409,6 +411,10 @@
 
 .b-none {
     border: none;
+}
+
+.b-none::after {
+  border: none;
 }
 
 .b-border {
