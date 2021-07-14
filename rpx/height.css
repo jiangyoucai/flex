@@ -1,0 +1,149 @@
+/* h unit vh */
+.h50 {
+    min-height: 50vh;
+}
+
+.h60 {
+    min-height: 60vh;
+}
+
+.h70 {
+    min-height: 70vh;
+}
+
+.h80 {
+    min-height: 80vh;
+}
+
+.h90 {
+    min-height: 90vh;
+}
+
+.h100 {
+    min-height: 100vh;
+}
+
+/* y unit px */
+.y10 {
+    height: 20rpx;
+    line-height: 20rpx;
+}
+
+.y15 {
+    height: 30rpx;
+    line-height: 30rpx;
+}
+
+.y20 {
+    height: 40rpx;
+    line-height: 40rpx;
+}
+
+.y25 {
+    height: 50rpx;
+    line-height: 50rpx;
+}
+
+.y30 {
+    height: 60rpx;
+    line-height: 60rpx;
+}
+
+.y35 {
+    height: 70rpx;
+    line-height: 70rpx;
+}
+
+.y40 {
+    height: 80rpx;
+    line-height: 80rpx;
+}
+
+.y45 {
+    height: 90rpx;
+    line-height: 90rpx;
+}
+
+.y50 {
+    height: 100rpx;
+    line-height: 100rpx;
+}
+
+.y55 {
+    height: 110rpx;
+    line-height: 110rpx;
+}
+
+.y60 {
+    height: 120rpx;
+    line-height: 120rpx;
+}
+
+.y65 {
+    height: 130rpx;
+    line-height: 130rpx;
+}
+
+.y70 {
+    height: 140rpx;
+    line-height: 140rpx;
+}
+
+.y75 {
+    height: 150rpx;
+    line-height: 150rpx;
+}
+
+.y80 {
+    height: 160rpx;
+    line-height: 160rpx;
+}
+
+.y100 {
+    height: 200rpx;
+    line-height: 200rpx;
+}
+
+.y120 {
+    height: 240rpx;
+}
+
+.y160 {
+    height: 320rpx;
+}
+
+.y240 {
+    height: 480rpx;
+}
+
+.y320 {
+    height: 640rpx;
+}
+
+.y360 {
+    height: 720rpx;
+}
+
+.y400 {
+    height: 800rpx;
+}
+
+.y480 {
+    height: 960rpx;
+}
+
+.y560 {
+    height: 1120rpx;
+}
+
+.y640 {
+    height: 1280rpx;
+}
+
+.y720 {
+    height: 1440rpx;
+}
+
+.y960 {
+    height: 1920rpx;
+}

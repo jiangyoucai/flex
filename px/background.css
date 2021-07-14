@@ -1,0 +1,59 @@
+/* background */
+.bgf {
+    background: #ffffff;
+}
+
+.bgfa {
+    background: #fafafa;
+}
+
+.bgf2 {
+    background: #f2f2f2;
+}
+
+.bgf7 {
+    background: #f7f7f7;
+}
+
+.bg0 {
+    background: #000000;
+}
+
+.bg3 {
+    background: #333333;
+}
+
+.bg6 {
+    background: #666666;
+}
+
+.bg9 {
+    background: #999999;
+}
+
+.bgr {
+    background: #FF0000;
+}
+
+.bgx {
+    background: #4285f4;
+}
+
+.bgy {
+    background: #1e1e1e;
+}
+
+.bgz {
+    background: #e2e2e2;
+}
+.bghx:hover {
+    background: #4285f4;
+}
+
+.bghy:hover {
+    background: #1e1e1e;
+}
+
+.bghz:hover {
+    background: #e2e2e2;
+}

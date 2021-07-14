@@ -1,0 +1,13 @@
+/* outline */
+.o-auto {
+    overflow: auto;
+}
+
+.o-hidden {
+    overflow: hidden;
+}
+
+/* overflow */
+.o-none {
+    outline: 0;
+}

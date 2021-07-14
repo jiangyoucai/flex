@@ -1,0 +1,70 @@
+/* font size */
+.fs12 {
+    font-size: 24rpx;
+}
+
+.fs14 {
+    font-size: 28rpx;
+}
+
+.fs16 {
+    font-size: 32rpx;
+}
+
+.fs18 {
+    font-size: 36rpx;
+}
+
+.fs20 {
+    font-size: 40rpx;
+}
+
+.fs24 {
+    font-size: 48rpx;
+}
+
+.fs28 {
+    font-size: 56rpx;
+}
+
+.fs32 {
+    font-size: 64rpx;
+}
+
+.fs36 {
+    font-size: 72rpx;
+}
+
+/* font weight */
+.fw200 {
+    font-weight: 200;
+}
+
+.fw400 {
+    font-weight: 400;
+}
+
+.fw700 {
+    font-weight: 700;
+}
+
+.fw900 {
+    font-weight: 900;
+}
+
+/* line-height */
+.lh2 {
+    line-height: 2;
+}
+
+.lh3 {
+    line-height: 3;
+}
+
+.lh4 {
+    line-height: 4;
+}
+
+.lh5 {
+    line-height: 5;
+}

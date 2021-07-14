@@ -1,0 +1,60 @@
+/* color */
+.clf {
+    color: #ffffff;
+}
+
+.clfa {
+    color: #fafafa;
+}
+
+.clf2 {
+    color: #f2f2f2;
+}
+
+.clf7 {
+    color: #f7f7f7;
+}
+
+.cl0 {
+    color: #000000;
+}
+
+.cl3 {
+    color: #333333;
+}
+
+.cl6 {
+    color: #666666;
+}
+
+.cl9 {
+    color: #999999;
+}
+
+.clr {
+    color: #ff0000;
+}
+
+.clx {
+    color: #4285f4;
+}
+
+.cly {
+    color: #1e1e1e;
+}
+
+.clz {
+    color: #e2e2e2;
+}
+
+.clhx:hover {
+    color: #4285f4;
+}
+
+.clhy:hover {
+    color: #1e1e1e;
+}
+
+.clhz:hover {
+    color: #e2e2e2;
+}

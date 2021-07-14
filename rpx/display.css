@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+}
+
+.hidden {
+    display: none;
+}
+
+.option:hover .hidden {
+    display: block !important;
+}

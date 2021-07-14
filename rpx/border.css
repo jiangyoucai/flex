@@ -1,0 +1,117 @@
+/* border */
+.b-none {
+    border: none;
+}
+
+.b-border {
+    border: 2rpx solid #f2f2f2;
+}
+
+.b-top {
+    border-top: 2rpx solid #f2f2f2;
+}
+
+.b-bottom {
+    border-bottom: 2rpx solid #f2f2f2;
+}
+
+.b-left {
+    border-left: 2rpx solid #f2f2f2;
+}
+
+.b-right {
+    border-right: 2rpx solid #f2f2f2;
+}
+
+/* border radius */
+.br2 {
+    border-radius: 4rpx;
+}
+
+.br4 {
+    border-radius: 8rpx;
+}
+
+.br6 {
+    border-radius: 12rpx;
+}
+
+.br8 {
+    border-radius: 16rpx;
+}
+
+.br10 {
+    border-radius: 20rpx;
+}
+
+.br20 {
+    border-radius: 40rpx;
+}
+
+.br30 {
+    border-radius: 60rpx;
+}
+
+.br40 {
+    border-radius: 80rpx;
+}
+
+.brx {
+    border-radius: 50%;
+}
+
+/* border-width */
+.bw1 {
+    border-width: 2rpx;
+}
+
+.bw2 {
+    border-width: 4rpx;
+}
+
+.bw3 {
+    border-width: 6rpx;
+}
+
+.bw4 {
+    border-width: 8rpx;
+}
+
+.bw5 {
+    border-width: 10rpx;
+}
+
+/* shadow */
+.b-shadow {
+    box-shadow: 0 0 8rpx rgba(0, 0, 0, 0.1);
+}
+
+/* box */
+.b-box {
+    box-sizing: border-box;
+}
+
+/* border-color */
+.bcx {
+    border-color: #4285f4;
+}
+
+.bcy {
+    border-color: #1e1e1e;
+}
+
+.bcz {
+    border-color: #e2e2e2;
+}
+
+.bchx:hover {
+    border-color: #4285f4;
+}
+
+.bchy:hover {
+    border-color: #1e1e1e;
+}
+
+.bchz:hover {
+    border-color: #e2e2e2;
+}

@@ -1,0 +1,37 @@
+/* text algin */
+.t-left {
+    text-align: left;
+}
+
+.t-right {
+    text-align: right;
+}
+
+.t-center {
+    text-align: center;
+}
+
+/* text decoration */
+.t-through {
+    text-decoration: line-through;
+}
+
+.t-under {
+    text-decoration: underline;
+}
+
+/* cursor */
+.t-pointer {
+    cursor: pointer;
+}
+
+/* white-space */
+.t-line {
+    white-space: pre-line;
+}
+
+.t-ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

@@ -1,0 +1,14 @@
+/* position */
+.p-relative {
+    position: relative;
+}
+
+.p-absolute {
+    position: absolute;
+    z-index: 1;
+}
+
+.p-fixed {
+    position: fixed;
+    z-index: 1;
+}
