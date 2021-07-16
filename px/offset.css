@@ -1,0 +1,35 @@
+/* offset top */
+.t0 {
+    top: 0;
+}
+
+.t50 {
+    top: 50px;
+}
+
+/* offset right */
+.r0 {
+    right: 0;
+}
+
+.r50 {
+    right: 50px;
+}
+
+/* offset bottom */
+.b0 {
+    bottom: 0;
+}
+
+.b50 {
+    bottom: 50px;
+}
+
+/* offset left */
+.l0 {
+    left: 0;
+}
+
+.l50 {
+    left: 50px;
+}

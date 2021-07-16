@@ -1,25 +1,31 @@
 /* h unit vh */
 .h50 {
+    height: 50vh;
     min-height: 50vh;
 }
 
 .h60 {
+    height: 60vh;
     min-height: 60vh;
 }
 
 .h70 {
+    height: 70vh;
     min-height: 70vh;
 }
 
 .h80 {
+    height: 80vh;
     min-height: 80vh;
 }
 
 .h90 {
+    height: 90vh;
     min-height: 90vh;
 }
 
 .h100 {
+    height: 100vh;
     min-height: 100vh;
 }
 
