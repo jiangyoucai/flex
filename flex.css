@@ -830,6 +830,43 @@
 .lh5 {
     line-height: 5;
 }
+/* max width */
+.mx320 {
+    width: 320px;
+    max-width: 320px;
+}
+.mx480 {
+    width: 480px;
+    max-width: 480px;
+}
+.mx640 {
+    width: 640px;
+    max-width: 640px;
+}
+.mx720 {
+    width: 720px;
+    max-width: 720px;
+}
+.mx960 {
+    width: 960px;
+    max-width: 960px;
+}
+.mx1024 {
+    width: 1024px;
+    max-width: 1024px;
+}
+.mx1080 {
+    width: 1080px;
+    max-width: 1080px;
+}
+.mx1200 {
+    width: 1200px;
+    max-width: 1200px;
+}
+.mx1440 {
+    width: 1440px;
+    max-width: 1440px;
+}
 .container {
     display: flex;
 }
@@ -928,7 +965,6 @@
 }
 
 .h100 {
-    height: 100vh;
     min-height: 100vh;
 }
 

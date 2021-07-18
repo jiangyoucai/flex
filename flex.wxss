@@ -830,6 +830,43 @@
 .lh5 {
     line-height: 5;
 }
+/* max width */
+.mx320 {
+    width: 640rpx;
+    max-width: 640rpx;
+}
+.mx480 {
+    width: 960rpx;
+    max-width: 960rpx;
+}
+.mx640 {
+    width: 1280rpx;
+    max-width: 1280rpx;
+}
+.mx720 {
+    width: 1440rpx;
+    max-width: 1440rpx;
+}
+.mx960 {
+    width: 1920rpx;
+    max-width: 1920rpx;
+}
+.mx1024 {
+    width: 2048rpx;
+    max-width: 2048rpx;
+}
+.mx1080 {
+    width: 2160rpx;
+    max-width: 2160rpx;
+}
+.mx1200 {
+    width: 2400rpx;
+    max-width: 2400rpx;
+}
+.mx1440 {
+    width: 2880rpx;
+    max-width: 2880rpx;
+}
 .container {
     display: flex;
 }
@@ -928,7 +965,6 @@
 }
 
 .h100 {
-    height: 100vh;
     min-height: 100vh;
 }
 
